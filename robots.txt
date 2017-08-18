@@ -1,0 +1,4 @@
+User-agent: *
+Crawl-delay: 5
+Host: avocadopink.com,ua
+Sitemap: http://avocadopink.com.ua/sitemap.xml
